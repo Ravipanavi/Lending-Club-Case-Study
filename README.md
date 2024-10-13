@@ -41,8 +41,8 @@ Give credit here.
 
 
 ## Contact
-Created by [@Ravipanavi] - feel free to contact me!
-[ravipanavirs@gmail.com]
+Created by @Ravipanavi - feel free to contact me!
+ravipanavirs@gmail.com
 
 
 <!-- Optional -->
