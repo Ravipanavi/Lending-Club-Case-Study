@@ -1,5 +1,5 @@
 # Project Name
-> Lending Club Case Study.
+> Lending Club Case Study
 
 
 ## Table of Contents
@@ -29,8 +29,7 @@
 
 ## Technologies Used
 - library - version 1.0
-- library - version 2.0
-- library - version 3.0
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -38,11 +37,12 @@
 Give credit here.
 - This project was inspired by...
 - References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was based on [this tutorial](https://www.upgrad.com).
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@Ravipanavi] - feel free to contact me!
+[ravipanavirs@gmail.com]
 
 
 <!-- Optional -->
