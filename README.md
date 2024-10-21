@@ -45,12 +45,14 @@ Through Exploratory Data Analysis (EDA) of the provided loan dataset, we were ab
 ## Acknowledgements
 We would like to express our gratitude to the consumer finance company for providing the loan dataset and the opportunity to work on this project. Special thanks to our team members and mentors for their guidance, as well as to the data science community for offering invaluable resources that helped shape our analysis and recommendations.
 
-- This project was based on (https://www.upgrad.com).
+- This project was based on https://www.upgrad.com
 
 
 ## Contact
 Created by Ravi & Revanth  
-ravipanavirs@gmail.com and revanth.nkps@gmail.com - feel free to contact me!
+ravipanavirs@gmail.com and revanth.nkps@gmail.com 
+
+- "Feel free to reach out us if you need anything!"
 
 
 <!-- Optional -->
