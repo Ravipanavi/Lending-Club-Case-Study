@@ -27,7 +27,9 @@ The project uses a Loan Dataset, which contains details of customers and their l
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-Through Exploratory Data Analysis (EDA) of the provided loan dataset, we were able to identify key characteristics of customers who are more likely to repay their loans, such as stable income, lower debt-to-income ratios, and positive credit histories. These insights can help the company refine its loan approval process, reducing the risk of approving high-risk loans and improving overall profitability. Implementing data-driven decision-making will allow the company to make more informed choices, ultimately minimizing financial losses from charged-off loans.
+Through Exploratory Data Analysis (EDA) of the provided loan dataset, we were able to identify key characteristics of customers who are more likely to repay their loans, such as stable income, lower debt-to-income ratios, and positive credit histories. 
+These insights can help the company refine its loan approval process, reducing the risk of approving high-risk loans and improving overall profitability.
+Implementing data-driven decision-making will allow the company to make more informed choices, ultimately minimizing financial losses from charged-off loans.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
