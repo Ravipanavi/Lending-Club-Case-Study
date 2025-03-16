@@ -1,6 +1,5 @@
 # Project Name
-> This project builds a custom CNN model for melanoma detection.
-
+> 
 
 ## Table of Contents
 * [General Info](#general-information)
