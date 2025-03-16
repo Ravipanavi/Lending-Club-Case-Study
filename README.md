@@ -1,5 +1,5 @@
 # Project Name
-> Lending Club Case Study
+> This project builds a custom CNN model for melanoma detection using the ISIC dataset, focusing on data preprocessing, augmentation, and classification.
 
 
 ## Table of Contents
